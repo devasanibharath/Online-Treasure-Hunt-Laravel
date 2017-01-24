@@ -34,6 +34,6 @@ Some Important Notes :
 * Fb Integration will be released in v2.
 
 In case of any queries with the code please feel free to contact me on any media.
-* email : bharath@zoisoft.com
+* email : bharath.devasani@gmail.com
 * fb : http://www.facebook.com/bharathdevasani
 * twitter : @BharathDevasani
